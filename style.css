@@ -1,7 +1,11 @@
 .cabeçalho{background-color: blueviolet; color:rgb(57, 4, 82);
      display: flex;
       justify-content: center}
-      .imagem-logo{width: 20%;
-      .sobre-loja{color: darkorchid;}
+      .imagem-logo{width: 20%;}
 
-      }
+      .sobre-loja {
+          background-image: linear-gradient(#000,#0000);
+          color: darkorchid;}
+          padding: 24px 0;
+
+      
